@@ -1,0 +1,27 @@
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.Exception\bin\Debug\SmartPortal.Exception.dll.config
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.Exception\bin\Debug\SmartPortal.Exception.dll
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.Exception\bin\Debug\SmartPortal.Exception.pdb
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.Exception\obj\Debug\SmartPortal.ExceptionCollection.csprojAssemblyReference.cache
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.Exception\obj\Debug\SmartPortal.ExceptionCollection.csproj.CoreCompileInputs.cache
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.Exception\obj\Debug\SmartPortal.Exception.dll
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.Exception\obj\Debug\SmartPortal.Exception.pdb
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.Exception\bin\Debug\SmartPortal.Exception.dll.config
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.Exception\bin\Debug\SmartPortal.Exception.dll
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.Exception\bin\Debug\SmartPortal.Exception.pdb
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.Exception\obj\Debug\SmartPortal.ExceptionCollection.csprojAssemblyReference.cache
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.Exception\obj\Debug\SmartPortal.ExceptionCollection.csproj.CoreCompileInputs.cache
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.Exception\obj\Debug\SmartPortal.Exception.dll
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.Exception\obj\Debug\SmartPortal.Exception.pdb
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.Exception\bin\Debug\SmartPortal.Exception.dll.config
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.Exception\bin\Debug\SmartPortal.Exception.dll
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.Exception\bin\Debug\SmartPortal.Exception.pdb
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.Exception\obj\Debug\SmartPortal.ExceptionCollection.csproj.CoreCompileInputs.cache
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.Exception\obj\Debug\SmartPortal.Exception.dll
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.Exception\obj\Debug\SmartPortal.Exception.pdb
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.Exception\obj\Debug\SmartPortal.ExceptionCollection.csproj.AssemblyReference.cache
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.Exception\bin\Debug\SmartPortal.Exception.dll.config
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.Exception\bin\Debug\SmartPortal.Exception.dll
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.Exception\bin\Debug\SmartPortal.Exception.pdb
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.Exception\obj\Debug\SmartPortal.ExceptionCollection.csproj.CoreCompileInputs.cache
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.Exception\obj\Debug\SmartPortal.Exception.dll
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.Exception\obj\Debug\SmartPortal.Exception.pdb

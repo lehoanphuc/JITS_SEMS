@@ -1,0 +1,36 @@
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.RemotingServices\bin\Debug\SmartPortal.RemotingServices.dll.config
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.RemotingServices\bin\Debug\SmartPortal.RemotingServices.dll
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.RemotingServices\bin\Debug\SmartPortal.RemotingServices.pdb
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.RemotingServices\bin\Debug\ITransaction.dll
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.csprojAssemblyReference.cache
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.csproj.CoreCompileInputs.cache
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.csproj.CopyComplete
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.dll
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.pdb
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.RemotingServices\bin\Debug\SmartPortal.RemotingServices.dll.config
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.RemotingServices\bin\Debug\SmartPortal.RemotingServices.dll
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.RemotingServices\bin\Debug\SmartPortal.RemotingServices.pdb
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.RemotingServices\bin\Debug\ITransaction.dll
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.csprojAssemblyReference.cache
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.csproj.CoreCompileInputs.cache
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.csproj.CopyComplete
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.dll
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.pdb
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.RemotingServices\bin\Debug\SmartPortal.RemotingServices.dll.config
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.RemotingServices\bin\Debug\SmartPortal.RemotingServices.dll
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.RemotingServices\bin\Debug\SmartPortal.RemotingServices.pdb
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.RemotingServices\bin\Debug\ITransaction.dll
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.csproj.AssemblyReference.cache
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.csproj.CoreCompileInputs.cache
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.csproj.CopyComplete
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.dll
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.pdb
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.RemotingServices\bin\Debug\SmartPortal.RemotingServices.dll.config
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.RemotingServices\bin\Debug\SmartPortal.RemotingServices.dll
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.RemotingServices\bin\Debug\SmartPortal.RemotingServices.pdb
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.RemotingServices\bin\Debug\ITransaction.dll
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.csproj.AssemblyReference.cache
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.csproj.CoreCompileInputs.cache
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.csproj.CopyComplete
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.dll
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.RemotingServices\obj\Debug\SmartPortal.RemotingServices.pdb

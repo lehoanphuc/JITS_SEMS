@@ -1,0 +1,44 @@
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.dll.config
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.dll
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.pdb
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.dll
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.pdb
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.dll.config
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csprojAssemblyReference.cache
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.CoreCompileInputs.cache
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.CopyComplete
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.dll
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.pdb
+F:\Project\SVN\SVNPSV\Programs\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.dll.config
+F:\Project\SVN\SVNPSV\Programs\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.dll
+F:\Project\SVN\SVNPSV\Programs\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.pdb
+F:\Project\SVN\SVNPSV\Programs\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.dll
+F:\Project\SVN\SVNPSV\Programs\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.pdb
+F:\Project\SVN\SVNPSV\Programs\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.dll.config
+F:\Project\SVN\SVNPSV\Programs\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csprojAssemblyReference.cache
+F:\Project\SVN\SVNPSV\Programs\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.CoreCompileInputs.cache
+F:\Project\SVN\SVNPSV\Programs\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.CopyComplete
+F:\Project\SVN\SVNPSV\Programs\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.dll
+F:\Project\SVN\SVNPSV\Programs\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.pdb
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.dll.config
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.dll
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.pdb
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.dll
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.pdb
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.dll.config
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.AssemblyReference.cache
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.CoreCompileInputs.cache
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.CopyComplete
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.dll
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.pdb
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.dll.config
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.dll
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.DAL.pdb
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.dll
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.pdb
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\DLL\SmartPortal.DAL\bin\Debug\SmartPortal.Exception.dll.config
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.AssemblyReference.cache
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.CoreCompileInputs.cache
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.csproj.CopyComplete
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.dll
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\DLL\SmartPortal.DAL\obj\Debug\SmartPortal.DAL.pdb

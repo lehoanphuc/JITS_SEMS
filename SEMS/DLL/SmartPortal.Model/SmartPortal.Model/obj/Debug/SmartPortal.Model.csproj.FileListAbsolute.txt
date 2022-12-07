@@ -1,0 +1,27 @@
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.dll.config
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.dll
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.pdb
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.csprojAssemblyReference.cache
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.csproj.CoreCompileInputs.cache
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.dll
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.pdb
+F:\Project\SVN\SVNPSV\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.dll.config
+F:\Project\SVN\SVNPSV\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.dll
+F:\Project\SVN\SVNPSV\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.pdb
+F:\Project\SVN\SVNPSV\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.csprojAssemblyReference.cache
+F:\Project\SVN\SVNPSV\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.csproj.CoreCompileInputs.cache
+F:\Project\SVN\SVNPSV\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.dll
+F:\Project\SVN\SVNPSV\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.pdb
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.dll.config
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.dll
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.pdb
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.csproj.AssemblyReference.cache
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.csproj.CoreCompileInputs.cache
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.dll
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.pdb
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.dll.config
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.dll
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\bin\Debug\SmartPortal.Model.pdb
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.csproj.CoreCompileInputs.cache
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.dll
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\DLL\SmartPortal.Model\SmartPortal.Model\obj\Debug\SmartPortal.Model.pdb

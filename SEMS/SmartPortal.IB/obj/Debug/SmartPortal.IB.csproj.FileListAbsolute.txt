@@ -1,0 +1,84 @@
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.IB.dll.config
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.IB.dll
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.IB.pdb
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\bin\Debug\ITransaction.dll
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Constant.dll
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.DAL.dll
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.RemotingServices.dll
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Exception.dll
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.DAL.pdb
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.DAL.dll.config
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Constant.pdb
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Constant.dll.config
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.RemotingServices.pdb
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.RemotingServices.dll.config
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Exception.pdb
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Exception.dll.config
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.csprojAssemblyReference.cache
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.csproj.CoreCompileInputs.cache
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.csproj.CopyComplete
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.dll
+F:\Project\SVN\PSVBANK\CODE\PSVBank\Programs\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.pdb
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.IB.dll.config
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.IB.dll
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.IB.pdb
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\bin\Debug\ITransaction.dll
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Constant.dll
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.DAL.dll
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.RemotingServices.dll
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Exception.dll
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.DAL.pdb
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.DAL.dll.config
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Constant.pdb
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Constant.dll.config
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.RemotingServices.pdb
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.RemotingServices.dll.config
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Exception.pdb
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Exception.dll.config
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.csprojAssemblyReference.cache
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.csproj.CoreCompileInputs.cache
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.csproj.CopyComplete
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.dll
+F:\Project\SVN\SVNPSV\Programs\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.pdb
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.IB.dll.config
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.IB.dll
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.IB.pdb
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\bin\Debug\ITransaction.dll
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Constant.dll
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.DAL.dll
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.RemotingServices.dll
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Exception.dll
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.DAL.pdb
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.DAL.dll.config
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Constant.pdb
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Constant.dll.config
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.RemotingServices.pdb
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.RemotingServices.dll.config
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Exception.pdb
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Exception.dll.config
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.csproj.AssemblyReference.cache
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.csproj.CoreCompileInputs.cache
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.csproj.CopyComplete
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.dll
+D:\SOURCE CODE\PSVBANK\Programs\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.pdb
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.IB.dll.config
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.IB.dll
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.IB.pdb
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\bin\Debug\ITransaction.dll
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Constant.dll
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.DAL.dll
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.RemotingServices.dll
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Exception.dll
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.DAL.pdb
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.DAL.dll.config
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Constant.pdb
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Constant.dll.config
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.RemotingServices.pdb
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.RemotingServices.dll.config
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Exception.pdb
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\bin\Debug\SmartPortal.Exception.dll.config
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.csproj.AssemblyReference.cache
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.csproj.CoreCompileInputs.cache
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.csproj.CopyComplete
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.dll
+C:\Users\phamhoangvi\Downloads\Telegram Desktop\SEMS\SmartPortal.IB\obj\Debug\SmartPortal.IB.pdb
